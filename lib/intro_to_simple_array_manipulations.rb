@@ -11,7 +11,7 @@ bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
 using_unshift(bouroughs_in_nyc, "Staten Island")
 
 def using_pop(array)
-  array.pop(array)
+  array.pop
 end
 continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-array.pop(continents)
+continents.pop
