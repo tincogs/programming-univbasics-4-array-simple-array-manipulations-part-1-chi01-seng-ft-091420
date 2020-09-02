@@ -19,4 +19,4 @@ continents.pop
 def pop_with_args(array)
   array.pop
 end
-dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua",]
+dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua","Shiba Inu"]
